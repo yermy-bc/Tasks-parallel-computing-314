@@ -1,0 +1,149 @@
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:12208[Worker] Logical Rank: 3 of 4 | Native OS TID:9848
+
+[Worker] Logical Rank: 2 of 4 | Native OS TID:15316[Worker] Logical Rank: 1 of 4 | Native OS TID:13824
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:15064[Worker] Logical Rank: 3 of 4 | Native OS TID:11724
+[Worker] Logical Rank: 1 of 4 | Native OS TID:3968
+
+[Worker] Logical Rank: 2 of 4 | Native OS TID:13252
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:14972[Worker] Logical Rank: 3 of 4 | Native OS TID:2356
+[Worker] Logical Rank: 2 of 4 | Native OS TID:8144[Worker] Logical Rank: 1 of 4 | Native OS TID:7236
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:2952[Worker] Logical Rank: 3 of 4 | Native OS TID:15284[Worker] Logical Rank: 1 of 4 | Native OS TID:8744
+[Worker] Logical Rank: 2 of 4 | Native OS TID:10132
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:8284[Worker] Logical Rank: 3 of 4 | Native OS TID:4536
+[Worker] Logical Rank: 2 of 4 | Native OS TID:14668[Worker] Logical Rank: 1 of 4 | Native OS TID:11884
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:14916[Worker] Logical Rank: 3 of 4 | Native OS TID:14688
+[Worker] Logical Rank: 1 of 4 | Native OS TID:2704[Worker] Logical Rank: 2 of 4 | Native OS TID:14696
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:14644[Worker] Logical Rank: 3 of 4 | Native OS TID:10556
+[Worker] Logical Rank: 2 of 4 | Native OS TID:7156[Worker] Logical Rank: 1 of 4 | Native OS TID:14736
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:10600[Worker] Logical Rank: 3 of 4 | Native OS TID:7072
+[Worker] Logical Rank: 2 of 4 | Native OS TID:2096[Worker] Logical Rank: 1 of 4 | Native OS TID:13152
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:12316[Worker] Logical Rank: 3 of 4 | Native OS TID:5012
+[Worker] Logical Rank: 1 of 4 | Native OS TID:10908[Worker] Logical Rank: 2 of 4 | Native OS TID:6692
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+
+====== RESTART: C:/Users/Rmu/AppData/Local/Programs/Python/Python314/st.py =====
+--- Forking a team of 4 threads ---
+[Master] Logical Rank: 0 of 4 | Native OS TID:1604[Worker] Logical Rank: 3 of 4 | Native OS TID:12604
+[Worker] Logical Rank: 1 of 4 | Native OS TID:14200[Worker] Logical Rank: 2 of 4 | Native OS TID:15220
+
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
+--- Joined thread team. Execution returned to serial master ---
+
